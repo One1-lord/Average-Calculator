@@ -13,8 +13,7 @@ if (subjects.length <= 2){
     addButton.style.display ="none"
     subButton.style.display ="block"
 }
-
-
+//guvgu
 const add =()=>{
     let firstName =document.getElementById("firstName").value;
     let lastName =document.getElementById("lastName").value;
